@@ -6,3 +6,5 @@ This respository hosts the research for the manuscript entitled, "Data-Driven Gu
 * DDGA - Hosts the files necessary for running DDGA for the Personalized experiments and the Interpolation and Extrapolation experiments.
 * DDGA/Personalized/ - These experiments train on a given subjects data and test on the same subjects data.
 * DDGA/Interploation and Extrapolation/ - These experiments train on specific ranges of a person's BP data and tests on the remaining BP ranges.
+
+DDGA/Personalized/ and DDGA/Interploation and Extrapolation/ contain the DDGA codes for each evaluated DL type for predicting DBP/SBP separately, for both Bio-Z and MIMIC.
