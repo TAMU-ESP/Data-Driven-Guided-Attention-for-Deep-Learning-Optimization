@@ -1,3 +1,5 @@
+# Data-Driven Guided Attention for Analysis of Physiological Waveforms with Deep Learning
+
 This respository hosts the research for the manuscript entitled, "Data-Driven Guided Attention for Analysis of Physiological Waveforms with Deep Learning". The repo is organized as follows:
 
 Data Annotation - Hosts the files necessary for annotating the fiducial points for both the Bio-Z and MIMIC PPG modalities with Boosted-SpringDTW.
